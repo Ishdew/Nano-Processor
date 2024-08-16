@@ -55,7 +55,7 @@ See `Project Report.pdf`
 
 ## Demo
 
-https://github.com/Ishdew/Nano-Processor/Demo_Video.mp4
+Watch the `Demo_video.mp4` 
 
 ## License
 
